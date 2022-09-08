@@ -3,3 +3,4 @@
 Kristian redigerte denne. Haha!
 
 Islam var her...
+Issa var her!
