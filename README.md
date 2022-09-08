@@ -3,5 +3,7 @@
 Kristian redigerte denne. Haha!
 
 Islam var her...
-|Issa var her!|https://github.com/issaalmusawi/IND-repository|
+|name|url-link|
 |---|---|
+|Issa var her!|https://github.com/issaalmusawi/IND-repository|
+
