@@ -8,5 +8,5 @@ Kristian redigerte denne. Haha!
 |Islam var her...|https://github.com/Islamsjoldajev95/IND-REPOSITORY|
 |Issa var her!|https://github.com/issaalmusawi/IND-repository|
 |Jakob var her:) 
-|Eskil var her også :)
+|Eskil var her også :)|https://github.com/likse123/IND-REPOSITORY|
 |Caroline var her også faktisk|https://github.com/carolinesh/IND-REPOSITORY|
