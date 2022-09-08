@@ -6,5 +6,6 @@ Kristian redigerte denne. Haha!
 |---|---|
 |Islam var her...|https://github.com/Islamsjoldajev95/IND-REPOSITORY|
 |Issa var her!|https://github.com/issaalmusawi/IND-repository|
-|Jakob var her:) 
-|Eskil var her også :)
+|Jakob var her:) ||
+|Alf var her||
+|Eskil var her også :)||
