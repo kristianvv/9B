@@ -2,6 +2,8 @@
 9B sin GRUPPE-RESPOSITORY
 Kristian redigerte denne. Haha!
 
-Islam var her...
-Issa var her!
-Jakob var her:)
+|Name|Url-link|
+|---|---|
+|Islam var her...|https://github.com/Islamsjoldajev95/IND-REPOSITORY|
+|Issa var her!|https://github.com/issaalmusawi/IND-repository|
+|Jakob var her:) 
